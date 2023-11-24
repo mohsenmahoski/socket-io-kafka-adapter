@@ -1,2 +1,2 @@
 # socket-io-kafka-adapter
-A Custom Adapter for Scaling Socket.IO Server using Kafka
+A Custom Adapter for Scaling Socket.IO Server using Kafka in Nest.Js
